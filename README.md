@@ -1,5 +1,6 @@
  ola bom dia🫀
-estou aprendendo no alura
+
+''estou aprendendo no alura
 
 **viado32/viado32** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
